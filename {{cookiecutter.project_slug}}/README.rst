@@ -37,7 +37,9 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `taurus-org/cookiecutter-taurus`_ template
+(based on `audreyr/cookiecutter-pypackage`_).
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`taurus-org/cookiecutter-taurus`: https://github.com/taurus-org/cookiecutter-taurus
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage

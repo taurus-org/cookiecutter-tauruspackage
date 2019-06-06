@@ -76,7 +76,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 {% elif cookiecutter.open_source_license == 'GPLv3+' -%}
-GNU GENERAL PUBLIC LICENSE
+
+                     GNU GENERAL PUBLIC LICENSE
                       Version 3, 29 June 2007
 
     {{ cookiecutter.project_short_description }}
@@ -95,7 +96,8 @@ GNU GENERAL PUBLIC LICENSE
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 {% elif cookiecutter.open_source_license == 'LGPLv3+' -%}
-GNU LESSER GENERAL PUBLIC LICENSE
+
+                 GNU LESSER GENERAL PUBLIC LICENSE
                       Version 3, 29 June 2007
 
     {{ cookiecutter.project_short_description }}
