@@ -22,7 +22,8 @@ test_requirements = [{%- if cookiecutter.use_pytest == 'y' %}'pytest',{%- endif 
     'BSD license': 'License :: OSI Approved :: BSD License',
     'ISC license': 'License :: OSI Approved :: ISC License (ISCL)',
     'Apache Software License 2.0': 'License :: OSI Approved :: Apache Software License',
-    'GNU General Public License v3': 'License :: OSI Approved :: GNU General Public License v3 (GPLv3)'
+    'GPLv3+': 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
+    'LGPLv3+': 'License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)'
 } %}
 
 setup(
