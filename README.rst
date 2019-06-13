@@ -35,7 +35,7 @@ or, in debian-based distros:
 
 Generate a Taurus package project::
 
-    cookiecutter https://github.com/taurus-org/cookiecutter-taurus.git
+    cookiecutter https://github.com/taurus-org/cookiecutter-tauruspackage.git
 
 Then:
 
